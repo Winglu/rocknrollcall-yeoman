@@ -69,7 +69,7 @@ On Windows we suggest you use an improved command line tool such as Console2 or 
 
 ### Configuring RocknRollCall
 
-You will need to register and obtain an API key from Echo Nest at http://developer.echonest.com/account/register
+You'll need your own API key for The Echo NestVisit https://developer.echonest.com/account/register in your browser, fill out the form, and follow the directions. Once you've activated your account, find your API key on your profile page.
 
 Then, within app/scripts/app.js, add in your key:
 
